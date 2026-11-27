@@ -5424,7 +5424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 167.64 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -5667,7 +5667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 59.69 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -5921,7 +5921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:BatteryHolder_MPD_BA9VPC_1xPP3"
 			(at 157.48 141.986 90)
 			(hide yes)
 			(show_name no)
@@ -6193,7 +6193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical"
 			(at 265.43 121.666 0)
 			(hide yes)
 			(show_name no)
@@ -7155,7 +7155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 33.02 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -7189,28 +7189,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "326ea242-e866-4c7e-b322-99c60f66c0a1")
+			(uuid "326ea242-e866-4c7e-b322-99c60f66c0a2")
 		)
 		(pin "7"
-			(uuid "2f62ab6e-dfef-45c9-926e-8bea465f7fc2")
+			(uuid "2f62ab6e-dfef-45c9-926e-8bea465f7fc3")
 		)
 		(pin "6"
-			(uuid "dce26858-f5f6-4000-be02-079dc8dcd3d4")
+			(uuid "dce26858-f5f6-4000-be02-079dc8dcd3d5")
 		)
 		(pin "3"
-			(uuid "9d1678de-1eac-4e85-ae01-0340b86301e7")
+			(uuid "9d1678de-1eac-4e85-ae01-0340b86301e8")
 		)
 		(pin "1"
-			(uuid "fe8e9fac-50f8-40cc-a32e-c31fe6203307")
+			(uuid "fe8e9fac-50f8-40cc-a32e-c31fe6203308")
 		)
 		(pin "8"
-			(uuid "45b598e8-5ecd-44aa-bb7f-7e1b2fbbfc01")
+			(uuid "45b598e8-5ecd-44aa-bb7f-7e1b2fbbfc02")
 		)
 		(pin "5"
-			(uuid "c580ad38-36d1-48bd-9687-5e6b3244da83")
+			(uuid "c580ad38-36d1-48bd-9687-5e6b3244da84")
 		)
 		(pin "2"
-			(uuid "d9391979-a551-4b78-99fc-c8bb2cd5d3c7")
+			(uuid "d9391979-a551-4b78-99fc-c8bb2cd5d3c8")
 		)
 		(instances
 			(project "Line_Follower"
@@ -7490,7 +7490,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 73.66 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7524,28 +7524,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "326ea242-e866-4c7e-b322-99c60f66c0a1")
+			(uuid "326ea242-e866-4c7e-b322-99c60f66c0a3")
 		)
 		(pin "7"
-			(uuid "2f62ab6e-dfef-45c9-926e-8bea465f7fc2")
+			(uuid "2f62ab6e-dfef-45c9-926e-8bea465f7fc4")
 		)
 		(pin "6"
-			(uuid "dce26858-f5f6-4000-be02-079dc8dcd3d4")
+			(uuid "dce26858-f5f6-4000-be02-079dc8dcd3d6")
 		)
 		(pin "3"
-			(uuid "9d1678de-1eac-4e85-ae01-0340b86301e7")
+			(uuid "9d1678de-1eac-4e85-ae01-0340b86301e9")
 		)
 		(pin "1"
-			(uuid "fe8e9fac-50f8-40cc-a32e-c31fe6203307")
+			(uuid "fe8e9fac-50f8-40cc-a32e-c31fe6203309")
 		)
 		(pin "8"
-			(uuid "45b598e8-5ecd-44aa-bb7f-7e1b2fbbfc01")
+			(uuid "45b598e8-5ecd-44aa-bb7f-7e1b2fbbfc03")
 		)
 		(pin "5"
-			(uuid "c580ad38-36d1-48bd-9687-5e6b3244da83")
+			(uuid "c580ad38-36d1-48bd-9687-5e6b3244da85")
 		)
 		(pin "2"
-			(uuid "d9391979-a551-4b78-99fc-c8bb2cd5d3c7")
+			(uuid "d9391979-a551-4b78-99fc-c8bb2cd5d3c9")
 		)
 		(instances
 			(project "Line_Follower"
@@ -10045,7 +10045,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical"
 			(at 265.43 136.906 0)
 			(hide yes)
 			(show_name no)
